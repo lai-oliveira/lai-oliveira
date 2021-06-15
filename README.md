@@ -5,3 +5,4 @@
 
 
 @lai-oliveira/ contato:(21)979756823
+Em transição de carreira tenho focado na linguagem Java.
