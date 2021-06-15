@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @lai-oliveira
 - 📫 oliveiralaisa87@gmail.com
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 estou em busca de uma oportunidade como Desenvolvedora.
+- 🌱 Orientação a objeto em Java
 
-<!---
-lai-oliveira/lai-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--
+
+@lai-oliveira/ contato:(21)979756823
