@@ -6,4 +6,4 @@
 
 @lai-oliveira/ contato:(21)979756823
 Em transição de carreira tenho focado em linguagens de programação.
-Disposta a Desafios.
+Disposta a desafios.
