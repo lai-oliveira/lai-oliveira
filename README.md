@@ -1,7 +1,6 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 Sou entusiasta de **tecnologia**, movido pela curiosidade e pelo desejo de criar soluções que façam a diferença. Aqui você encontrará projetos que vão desde **aplicações backend escaláveis** até **inovações em automação de processos**.
-
 - 🌱 **Aprendizado contínuo**: Sempre explorando novas tecnologias. Atualmente focado em **{tecnologias e frameworks atual}**.
 - 🚀 **Interesses**: Inteligência Artificial, DevOps, Cloud Computing, e Computação Quântica.
 - 💼 **Projetos em andamento**: {breve descrição do projeto atual ou pessoal}
